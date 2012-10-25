@@ -42,13 +42,13 @@
 
 
 ###WindowsSpy
-> 监控进程的开始和结束
+> 监控进程的开始和结束。
 
 ###WindowsImage
-> 定义了windows内核中重要的数据结构 
+> 定义了windows内核中重要的数据结构 。
 
 ###WindowsCrashDumpGenerator
->
+> 生成crash dump 文件。
 
 ###BlueScreenInterceptor
-> 
+> ？？
