@@ -40,8 +40,15 @@
 ###UserModeInterceptor
 > 监控用户模式下模块的加载和卸载
 
+
 ###WindowsSpy
 > 监控进程的开始和结束
 
 ###WindowsImage
-> 定义了windows内核中重要的数据结构
+> 定义了windows内核中重要的数据结构 
+
+###WindowsCrashDumpGenerator
+>
+
+###BlueScreenInterceptor
+> 
