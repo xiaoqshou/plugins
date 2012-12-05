@@ -29,14 +29,15 @@
 			  "Cluster",
 		}
 
-pluginsConfig = {}
+		pluginsConfig = {}
 
-pluginsConfig.HostFiles = {
-  baseDir = "/root/Research/cluster/share"
-}
-	*.todo
-		根据赵旭给的提示在ucore里面看看读写文件永的是什么，编写例子查看一下
-		最明显的结果是 不使用hostfiles 出错 使用后 ok....
+		pluginsConfig.HostFiles = {
+  		baseDir = "/root/Research/cluster/share"
+		}
+			*.todo
+			
+	根据赵旭给的提示在ucore里面看看读写文件永的是什么，编写例子查看一下
+	最明显的结果是 不使用hostfiles 出错 使用后 ok....
 		
 ##plugin_Edgekiller
 
